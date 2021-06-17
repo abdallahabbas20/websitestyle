@@ -1,4 +1,31 @@
+
+header {
+    background-color: #072448;
+}
+
+h2,h3 {
+    display: inline-block;
+    color: #FEBC94;
+    font-family: Poppins;
+
+    padding: 0px 270px;
+    vertical-align: middle;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 300;
+    padding-right: 100px;
+}
 img {
     height:100px;
     width: 100px;
+    display: inline-block;
+    align-items: center;
+    vertical-align: middle;
+    margin: auto;
+
 }

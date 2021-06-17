@@ -13,12 +13,16 @@ h2,h3 {
     color: #FEBC94;
     font-family: Poppins;
 
-    padding: 0px 295px;
+    /* padding: 0px 200px; */
     vertical-align: middle;
+    margin: auto;
+    padding: 0px 100px;
 }
 
 h2 {
     font-weight: 400;
+    margin-left: 240px;
+    font-size: 20px;
 }
 
 h3 {
@@ -117,10 +121,24 @@ p.italic {
 
 p {
     margin-left: 10px;
+    font-family: Poppins;
 }
 
 section h2 {
     text-align: left;
     padding: 0px;
     margin-left: 10px;
+}
+
+.underline {
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+.left {
+    text-align: left;
+}
+
+li {
+    font-family: Poppins;
 }
